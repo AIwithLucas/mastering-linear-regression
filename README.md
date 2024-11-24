@@ -4,7 +4,6 @@
 
 - Mathematical Concepts
   - cost function
-  - gradient descent
   - normal equation linear regression
 
 ### 2. Algorithmic Implementation
