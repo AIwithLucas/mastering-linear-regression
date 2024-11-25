@@ -2,9 +2,9 @@
 
 ### 1. Theoretical Mastery
 
-- Mathematical Concepts
-  - cost function
-  - normal equation linear regression
+    - cost function
+    - normal equation linear regression
+    - gradient descent for larger dataset
 
 ### 2. Algorithmic Implementation
 
